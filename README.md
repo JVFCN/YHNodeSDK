@@ -1,5 +1,5 @@
 # 适用于云湖的NodeSDK
-这是一个适用于[云湖](https://www.yhchat.com)的**Dart**SDK  
+这是一个适用于[云湖](https://www.yhchat.com)的**Node**SDK  
 使用此SDK, 您可以轻松的创建云湖机器人  
 ---
 下面是一个简单的示例:
